@@ -7,4 +7,5 @@ My First Game
 ## Pikachu will wake!! :D
 ![](shot2.png)
 
-{% include video id="bD5kvn6xTy4" provider="youtube" %}
+## See video
+[here](https://youtu.be/bD5kvn6xTy4)
