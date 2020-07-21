@@ -12,10 +12,8 @@ Unity 강의를 들으며 배운 내용을 토대로 간단한 게임을 만들�
 
 ## 동영상
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/bD5kvn6xTy4" frameborder="0" gesture="media" allowfullscreen=""></iframe>
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=bD5kvn6xTy4" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" alt="<img width="1278" alt="picahchu" src="https://user-images.githubusercontent.com/37320831/88014772-b0af6000-cb5a-11ea-87fa-8fa98276740d.png">" width="240" height="180" border="10" /></a>
-
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=bD5kvn6xTy4" target="_blank"><img src="http://img.youtube.com/vi/bD5kvn6xTy4/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 
 ## If you click pokeball lots of time...
