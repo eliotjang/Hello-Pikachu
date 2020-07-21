@@ -12,7 +12,7 @@ Unity 강의를 들으며 배운 내용을 토대로 간단한 게임을 만들�
 
 ## 동영상
 
-<iframe width="640" height="360" src="https://www.youtube.com/embeded/bD5kvn6xTy4" frameborder="0" gesture="media" allowfullscreen=""></iframe>
+<iframe width="640" height="360" src="https://www.youtube.com/embed/bD5kvn6xTy4" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
 ## If you click pokeball lots of time...
 ![](shot1.png)
