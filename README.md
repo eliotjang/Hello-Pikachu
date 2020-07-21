@@ -18,4 +18,4 @@ Unity 강의를 들으며 배운 내용을 토대로 간단한 토글 게임을 
 ## 동영상
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=bD5kvn6xTy4" target="_blank"><img src="http://img.youtube.com/vi/bD5kvn6xTy4/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+alt="IMAGE ALT TEXT HERE" width="480" height="360" border="10" /></a>
